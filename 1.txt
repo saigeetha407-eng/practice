@@ -1,0 +1,13 @@
+class Employee
+  def __init(self,eid,ename,esal):
+       self.eid = eid
+       self.ename = ename
+       self.esal = esal
+class Employee{
+       int empId:
+       string empName;
+       int empSal;
+       public Employee(int empId,string empName,int  empSal){
+                 this.empId = empId;
+                 this.empName = empName;
+                 this.empSal = empSal;
